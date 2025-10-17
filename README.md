@@ -71,7 +71,8 @@ npm run dev
 
 ## 👩‍💻 Autor
 
-**chrystopher de souza oliveira**  
+**chrystopher de souza oliveira** 
+creditos para victoria freyre com quem foi inspirado o projeto.
 
 [LinkedIn](https://www.linkedin.com/in/vict%C3%B3ria-freyre-220b05291/)
 
